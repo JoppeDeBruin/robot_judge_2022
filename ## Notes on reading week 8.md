@@ -33,3 +33,7 @@ Also in claiming that different shows have different stances towards the COVID p
 This is then also done by subsetting in the survey data. But is there no selection effect in this? Other people might watch these shows?
 
 Can the channel positions be endogenous? CHECK IF THIS IS MENTIONED EXPLICITLY!
+
+It is stated that under the assumption of exogeneity, rho caputer the local average treatment effect. However, what does that exactly mean and how does it translate to the final resutls?
+
+Moreover, viewership ratings might have changed over time as consequence of the pandemic. MOreover, does it make sense to make a continuous variable out of the ranking (it cannot be negative e.g.) Maybe categorical works better? 
